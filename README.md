@@ -23,7 +23,7 @@
  
 <div> 
 
-
+![Snake animation](https://github.com/Medeirosvig/Medeirosvig/blob/output/github-contribution-grid-snake.svg)
 
 
 
